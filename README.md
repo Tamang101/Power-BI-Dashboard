@@ -42,7 +42,7 @@ Data collected and anonymized from internal reporting systems of Kein Handicap B
 - **Data Storytelling** – Translating insights into actionable improvements
   
 ## 🖼️ Power BI Dashboard Preview  
-!
+![Healthcare Analytics Dashboard] (https://github.com/Tamang101/Power-BI-Dashboard/blob/main/Healthcare%20analytics%20dashboard.png)
 *Figure: Kein Handicap Healthcare Operations Dashboard – built in Power BI*
 ---
 
