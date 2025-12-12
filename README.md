@@ -41,18 +41,18 @@ Data collected and anonymized from internal reporting systems of Kein Handicap B
 - **Healthcare Analytics** – Utilization, Efficiency, Satisfaction Metrics  
 - **Data Storytelling** – Translating insights into actionable improvements
   
-## 🖼️ Power BI Dashboard Preview  
+##  Power BI Dashboard Preview  
 ![Healthcare Analytics Dashboard] (https://github.com/Tamang101/Power-BI-Dashboard/blob/main/Healthcare%20analytics%20dashboard.png)
 *Figure: Kein Handicap Healthcare Operations Dashboard – built in Power BI*
 ---
 
-## 📈 Business Impact
+##  Business Impact
 This dashboard helped the organization’s management:
 - Gain a real-time view of staff productivity and patient satisfaction.  
 - Identify underperforming service areas and optimize resources.  
 - Enhance overall decision-making and operational transparency.
 
-## 👤 Author
+##  Author
 **Prajwal Tamang**  
 Working Student – Analytics | Kein Handicap Berlin  
 📍 Berlin, Germany  
